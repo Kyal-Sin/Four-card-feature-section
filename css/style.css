@@ -126,6 +126,7 @@ img{
     }
     .flex-content,.nested-flex-container{
         width:60%;
+         margin-bottom:.5em;
     }
 }
 @media only screen and (max-width:400px){
@@ -140,5 +141,6 @@ img{
     }
     .flex-content,.nested-flex-container{
         width:100%;
+        margin-bottom:.5em;
     }
 }
